@@ -1,0 +1,31 @@
+Array/PAT - PHP Array Tools version 1.0
+=========================================
+
+The module provides you with the same functionality
+for your arrays as you would have in PHP.
+
+INSTALLATION
+
+To install this module type the following:
+
+   perl Makefile.PL
+   make
+   make test
+   make install
+
+DEPENDENCIES
+
+ Perl 5
+
+COPYRIGHT AND LICENCE
+
+Copyright (C) 2003 Brian Shade <bshade@eden.rutgers.edu>
+All rights reserved.
+
+
+This program is free software; you can redistribute it and/or modify it under
+the same terms as Perl itself. However, if you make any modifications/improvements
+please let me know so I may include it in the new releases.
+
+No WARRANTY whatsoever.
+
