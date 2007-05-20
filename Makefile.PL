@@ -4,4 +4,7 @@ use ExtUtils::MakeMaker;
 WriteMakefile(
     'NAME'	=> 'Array::PAT',
     'VERSION_FROM' => 'PAT.pm', # finds $VERSION
+    PREREQ_PM => {
+		'List::Util' => 0, # minimum version unchecked
+		},
 );

@@ -1,0 +1,36 @@
+Change.log
+
+Version 1.0
+-----------------
+-Initial release
+-Implemented following PHP function:
+  array_count_values
+  array_merge
+  array_pad
+  array_unique
+  in_array
+  shuffle
+
+Version 2.0
+---------------
+-Applied patch to ticket #22793
+-Improved implementation of existing functions from 1.0
+-Added the following PHP functions:
+  array_change_key_case
+  array_chunk
+  array_combine
+  array_diff
+  array_diff_assoc
+  array_diff_key
+  array_fill
+  array_flip
+  array_intersect
+  array_intersect_assoc
+  array_intersect_key
+  array_key_exists
+  array_product
+  array_rand
+  array_search
+  array_slice
+  array_sum
+  range

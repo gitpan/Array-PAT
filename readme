@@ -1,4 +1,4 @@
-Array/PAT - PHP Array Tools version 1.0
+Array/PAT - PHP Array Tools version 2.0
 =========================================
 
 The module provides you with the same functionality
@@ -15,16 +15,17 @@ To install this module type the following:
 
 DEPENDENCIES
 
- Perl 5
+ Perl 5.6.1
+ List::Util 1.18
 
 COPYRIGHT AND LICENCE
 
-Copyright (C) 2003 Brian Shade <bshade@eden.rutgers.edu>
+Copyright (C) 2003-2007 Brian Shade <bshade@gmail.com>
 All rights reserved.
 
 
 This program is free software; you can redistribute it and/or modify it under
-the same terms as Perl itself. However, if you make any modifications/improvements
+the same terms as Perl itself. If you make any modifications/improvements
 please let me know so I may include it in the new releases.
 
 No WARRANTY whatsoever.
